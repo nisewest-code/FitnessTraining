@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "216938107975",
+    "project_id": "tzproject-777d4",
+    "storage_bucket": "tzproject-777d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:65e5a5b7f4d6f0a4240d62",
+        "android_client_info": {
+          "package_name": "com.example.champion_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:b61ed30c6820854a240d62",
+        "android_client_info": {
+          "package_name": "com.example.fitnesstraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:956b21076eb3527b240d62",
+        "android_client_info": {
+          "package_name": "com.example.gymnasticsforbeginners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:954dd60302140a8a240d62",
+        "android_client_info": {
+          "package_name": "com.example.whoarefootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:e78a1f2dc9810b87240d62",
+        "android_client_info": {
+          "package_name": "com.example.workoutnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216938107975:android:6cd46df398e5487c240d62",
+        "android_client_info": {
+          "package_name": "com.rmd.test_docker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiDieUPF17akedTkg3lJwIsN44rMVioQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216938107975-7o8bmrvh49jmj39bouqe8l11v4grhh5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216938107975-js427h6gt2ofct1j08q72qoosgokp2sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.testDocker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/bannerfitnesstraining"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_margin="10dp"
+            android:id="@+id/btnStart"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="start training"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:text="A set of exercises for home training. Classes for all muscle groups – suitable for beginners"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_margin="10dp"
+            android:text="Everyone wants to look good and have a spectacular figure, but they don't always have enough time to work out in the gym. A properly selected set of physical exercises for home is a great alternative to going to the gym. If you develop a competent training program and purchase a few simple sports equipment, classes at home will be very effective."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Advantages of studying at home"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_margin="10dp"
+            android:text="\t Thanks to regular workouts, you can tighten your figure and get rid of extra pounds even outside the gym. Home workouts are a time and money saver.
+\n\t With a well-chosen program, even those who are just starting to join fitness can train at home.
+\n\t The complex of exercises for training at home provides a load on all muscle groups.
+\n\t Bulky expensive sports equipment and simulators are not required."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/share_rules"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_margin="10dp"
+            android:id="@+id/btnStart1"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="start training"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="General rules before starting a workout"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_margin="10dp"
+            android:text="\tDon't ignore the warm-up (warming up the muscles before training) and the hitch (stretching the whole body after training). Despite the lack of time, pay enough attention to the initial and final stage.
+\n\tTo reduce injury, practice in sneakers.
+\n\tExclude physical activity within an hour after eating.
+\n\tTraining for beginners should last no more than 20-25 minutes.
+\n\tTo perform some exercises, you may need sports equipment (dumbbells, horizontal bars, expander, etc.).
+\n\twHen drawing up a training scheme, the set of exercises should be divided into 3-4 classes per week. Days of intensive and light training should be alternated."/>
+
+
+    </LinearLayout>
+
+</ScrollView>
